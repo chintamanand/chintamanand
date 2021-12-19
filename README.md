@@ -16,7 +16,7 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
 <p align="left">
 <a href="https://twitter.com/chintamanand" target="_blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png" alt="Unable Display Image" height="40" width="40"/></a> 
 <a href="https://in.linkedin.com/in/anand-chintam-334347140" target="_blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" alt="Unable Display Image" height="40" width="40" /></a>
-<a href="https://facebook.com/chintamanand" target ="_blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-1024.png" alt="Unable Display Image" height="40" width="40"/></a>
+<a href="https://facebook.com/anand.chintam" target ="_blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-1024.png" alt="Unable Display Image" height="40" width="40"/></a>
 <a href="https://www.instagram.com/anandchintam" target="_blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" alt="Unable Display Image" height="40" width="40"/></a>
 </p>
 
