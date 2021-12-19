@@ -11,7 +11,8 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
 - 📫 How to reach me chintamanand56@gmail.com
 - ⚡ Fun fact I play virtual games and go to the badminton very often.
 
-<h3 align="left">Connect with me:</h3>
+**<h3 align="left">Connect with me:</h3>**
+---
 <p align="left">
 <a href="https://twitter.com/chintamanand" target="_blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png" alt="Unable Display Image" height="40" width="40"/></a> 
 <a href="https://in.linkedin.com/in/anand-chintam-334347140" target="_blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" alt="Unable Display Image" height="40" width="40" /></a>
@@ -19,9 +20,13 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
 <a href="https://www.instagram.com/anandchintam" target="_blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" alt="Unable Display Image" height="40" width="40"/></a>
 </p>
 
+
+**Github Stats:**
+---
 ![Chintam Anand's github stats](https://github-readme-stats.vercel.app/api?username=chintamanand&show_icons=true&hide_border=true)&nbsp;&nbsp;
-![Chintam Anand's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chintamanand&layout=compact&langs_count=10&hide_border=true)
+![Chintam Anand's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chintamanand&layout=compact&langs_count=8&hide_border=true)
 <br />
+
 
 **Languages and Tools:**  
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
