@@ -13,10 +13,10 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/chintamanand" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png" alt="Unable Display Image" height="40" width="40"/></a> 
-<a href="https://in.linkedin.com/in/anand-chintam-334347140" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" alt="Unable Display Image" height="40" width="40" /></a>
-<a href="https://facebook.com/chintamanand" target ="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-1024.png" alt="Unable Display Image" height="40" width="40"/></a>
-<a href="https://www.instagram.com/anandchintam" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" alt="Unable Display Image" height="40" width="40"/></a>
+<a href="https://twitter.com/chintamanand" target="_blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png" alt="Unable Display Image" height="40" width="40"/></a> 
+<a href="https://in.linkedin.com/in/anand-chintam-334347140" target="_blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" alt="Unable Display Image" height="40" width="40" /></a>
+<a href="https://facebook.com/chintamanand" target ="_blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-1024.png" alt="Unable Display Image" height="40" width="40"/></a>
+<a href="https://www.instagram.com/anandchintam" target="_blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" alt="Unable Display Image" height="40" width="40"/></a>
 </p>
 
 ![Chintam Anand's github stats](https://github-readme-stats.vercel.app/api?username=chintamanand&show_icons=true&hide_border=true)&nbsp;&nbsp;
